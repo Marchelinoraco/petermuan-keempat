@@ -1,0 +1,72 @@
+.hello {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+   text-align: center;
+}
+
+.world {
+    color: black;
+}
+
+.youtube {
+    text-decoration: none;
+    
+}
+
+.box {
+    width: 1000px;
+    height: 100px;
+    background-color: brown;
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border-style: double;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+.oto {
+    height: 500px;
+    width: 800px;
+
+}
+
+.car {
+    position: relative;
+}
+
+.liked {
+    position:absolute;
+    top : 0;
+    left: 0;
+    background-color: azure;
+    padding: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+
+}
+.name_price {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+}
+ul li {
+    list-style-type: none;
+    margin-left: 10px;
+}
+
